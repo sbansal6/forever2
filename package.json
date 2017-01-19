@@ -23,7 +23,7 @@
     "clone": "^1.0.2",
     "colors": "~0.6.2",
     "flatiron": "~0.4.2",
-    "forever-monitor-email": "git+https://git@github.com/sbansal6/forever-monitor-email.git",
+    "forever-monitor": "git+https://git@github.com/sbansal6/forever-monitor-email.git",
     "nconf": "~0.6.9",
     "nssocket": "~0.5.1",
     "object-assign": "^3.0.0",
