@@ -62,6 +62,7 @@ forever start app.js
     -l  LOGFILE      Logs the forever output to LOGFILE
     -o  OUTFILE      Logs stdout from child script to OUTFILE
     -e  ERRFILE      Logs stderr from child script to ERRFILE
+    -E  EMAILCONFIG  JSON File containing email config (host,port,from,to)
     -p  PATH         Base path for all forever related files (pid files, etc.)
     -c  COMMAND      COMMAND to execute (defaults to node)
     -a, --append     Append logs
